@@ -1,7 +1,7 @@
 # REINFORCED IAM
 Cloud-native solution for managing and strengthening IAM policies.
 
-*Please note this work is still in progress and so is the README. I will be updating as time permits. I maintain an offline repo where I will likely make more frequent updates.. please don't hesitate to message me if you have any questions or comments. - Tom*
+*Please note this work is still in progress and so is the README. 
  
 ## ARCHITECTURE
 - Record-Keeping: Terraform triggers Cloud Function via HTTP
